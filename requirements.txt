@@ -1,0 +1,14 @@
+# basic
+numpy
+pandas
+flask-restful
+flask
+pytest
+pytest-cov
+requests
+joblib
+
+# ml
+nltk
+scikit-learn
+xgboost
